@@ -1,0 +1,1 @@
+Pour se connecter au site web vous devez regarder la table identifiant_web, le mot de passe est toto pour tous les comptes
